@@ -27,7 +27,7 @@
         "minify": false
       },
       "bundle": false,
-      "addServiceWorker": true
+      "addServiceWorker": false
     }
   ],
   "moduleResolution": "node",
